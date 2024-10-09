@@ -56,4 +56,4 @@ npm start
 Or simply run the `start.sh` file
 
 ### Discord
-[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/HgxYREDJ4N)
+[![Join us on Discord]](https://discord.gg/HgxYREDJ4N)
