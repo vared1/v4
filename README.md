@@ -1,4 +1,4 @@
-# Made by Developers ChillCGDevYT, DerpmanDev, Fowntain
+# Made by Developers vared1, DerpmanDev, Fowntain
 
 ## Doge Unblocker
 Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our service allows you to **get around internet restrictions** to visit your favorite sites and apps, without worrying about your browsing history being saved or your internet being blocked.
@@ -38,7 +38,7 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 ### Current Developers:
 - [Derpman](https://github.com/DerpmanDev)
 - [Fowntain](https://github.com/fowntain)
-- [ChillCG](https://github.com/ChillCGDevYT)
+- [vared1](https://github.com/vared1)
 ### Deployment
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/template/h7StcI?referralCode=u82tqg)
 <a href="https://render.com/deploy?repo=https://github.com/dogenetwork/doge-unblocker">
